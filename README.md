@@ -15,9 +15,6 @@ This project analyzes customer behavior, identifies top-performing products, tra
 - Upload your own CSV dataset
 - Download processed data
 - Premium modern UI dashboard
-- Interactive filters (segment, month, country)
-
-
 
 #  Project Workflow
 
